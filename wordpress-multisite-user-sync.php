@@ -2,7 +2,7 @@
 /*
 Plugin Name: WordPress Multisite User Sync/Unsync
 Description: WordPress Multisite User Sync/Unsync plugin can sync/unsync users from one site (blog) to the other sites (blogs) in your WordPress Multisite Network.
-Version:     2.1.7
+Version:     2.1.8
 Author:      Obtain Infotech
 Author URI:  https://www.obtaininfotech.com/
 License:     GPL2
